@@ -2,6 +2,9 @@
 
 A simple web leaderboard to display top users in a game or competition.
 
+#LiveDemo
+click here - http://127.0.0.1:5500/index.html
+
 ## 📌 Features
 - Ranks users based on scores
 - Clean and responsive HTML/CSS design
